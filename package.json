@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DipenAhir/nodejs-Helloworld/issues"
   },
-  "homepage": "https://github.com/DipenAhir/nodejs-Helloworld#readme"
+  "homepage": "https://github.com/DipenAhir/nodejs-Helloworld#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
