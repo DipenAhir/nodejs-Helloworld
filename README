@@ -1,5 +1,5 @@
 IN UBUNTU OPEN TERMINAL 
-GO TO "NODEJS-HELLOWORLD" FOLDER
+GO TO "NODEJS-HELLOWORLD" FOLDER as downlod repo
 INSTALL NPM BY CMD : "npm intall npm"
 INSTALL dependencies in package.json by cmd : "npm install"
 Now run index.js by cmd : "node index.js"
